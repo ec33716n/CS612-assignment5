@@ -1,0 +1,33 @@
+{
+  "user1" : {
+    "Full Name" : "Anthony Edward Stark",
+    "Hero Name" : "Iron Man",
+    "Alignment" : "Hero",
+    "id": 1
+  },
+
+  "user2" : {
+    "Full Name" : "Thanos",
+    "Hero Name" : "Thanos",
+    "Alignment" : "Villain",
+    "id": 2
+  },
+  "user3" : {
+    "Full Name" : "Steve Grant Rogers",
+    "Hero Name" : "Captain America",
+    "Alignment" : "Hero",
+    "id": 3
+  },
+  "user4" : {
+    "Full Name" : "Thor Odinson",
+    "Hero Name" : "Thor",
+    "Alignment" : "Hero",
+    "id": 4
+  },
+  "user5" : {
+    "Full Name" : "Robert Bruce Banner",
+    "Hero Name" : "Hulk",
+    "Alignment" : "Hero",
+    "id": 5
+  }
+}

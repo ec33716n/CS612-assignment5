@@ -1,0 +1,12 @@
+{
+  "name": "A5",
+  "version": "1.0.0",
+  "author": "Eric Chan",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
